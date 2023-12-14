@@ -1,0 +1,12 @@
+# Dado o dicionário de notas
+notas = {
+  'João': 8.5,
+  'Maria': 9.0,
+  'Pedro': 7.5
+}
+
+# Adiciona a nota de 'Ana' com o valor 8.0
+notas['Ana'] = 8.0
+
+# Imprime o dicionário atualizado
+print(f"Dicionário de Notas Atualizado: {notas}")
